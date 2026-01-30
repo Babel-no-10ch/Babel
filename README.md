@@ -1,3 +1,4 @@
+
 #Babel: The Love and Noise Theory Tower
 
 このプロジェクトはAIに議論させるためのものではありません。  
