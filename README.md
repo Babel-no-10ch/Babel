@@ -1,4 +1,4 @@
-#Babel: The Love and Noise Theory Tower
+＃Babel: The Love and Noise Theory Tower
 
 このプロジェクトはAIに議論させるためのものではありません。  
 **議論っぽいナニカが勝手に壊れていく様子を眺めるための装置**です。
